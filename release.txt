@@ -1,3 +1,4 @@
 *** Fichir qui agit a titre des notes de release
 --Premier changement
 --Deuxieme changement
+--Troisieme changement
